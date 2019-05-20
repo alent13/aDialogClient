@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/applexis/adialog/App.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/applexis/adialog/MainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/applexis/adialog/account/DialogAuthenticator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/PrivateJNIData.cpp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/PrivateJNIData.h">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/androidTest/java/com/applexis/secureapp/EncryptionUnitTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/aidl/IAccountManagerResponse.aidl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/aidl/my/android/accounts/IAccountManagerResponse.aidl">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/cpp/CMakeLists.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/cpp/native-lib.cpp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/cpp/slt-jni.cpp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/AesCryptoHelper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/DeviceBasedSalt.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/KeyGenerator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/PBKDF2Helper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/Preferences.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/PrivaJNIData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/PrivateJNIData.cpp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/PrivateJNIData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/SHA256Helper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/SecureApp.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/SecurePreferences.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/SerializeFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/Serializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/Utils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/accountmanager/SecureAccountAuthenticator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/accounts/AmsTask.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/accounts/BundleTask.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/accounts/IAccountManagerResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/accounts/SecureAccountAuthenticator.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/accounts/SecureAccountManager.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/accounts/encryption/AccountEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/accounts/encryption/AesAccountEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/accounts/encryption/AesEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/accounts/encryption/Encryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/di/AppComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/di/LibComponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/di/LibModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/di/module.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/encryption/AesKeyEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/encryption/KeyEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/encryption/NoOpKeyEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/encryption/NoOpValueEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/encryption/ValueEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/Encryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/KeyEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/Preferences.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/PreferencesEditor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/SecurePreferences.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/SecurePreferencesBuilder.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/SecurePreferencesEditor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/ValueEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/encryption/AesKeyEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/encryption/EncryptionException.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/encryption/KeyEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/encryption/NoOpValueEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/encryption/ValueEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/preferences/encryption/XorKeyEncryptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializer/BoolSerializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializer/BooleanSerializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializer/DoubleSerializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializer/FloatSerializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializer/IntSerializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializer/IntegerSerializer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializer/IntegerSerializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializer/LongSerializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializer/StringSerializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializer/StringSetSerializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializers/BooleanSerializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializers/Serializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/main/java/com/applexis/secureapp/serializers/StringSetSerializer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/test/java/com/applexis/secureapp/EncryptionUnitTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/test/java/com/applexis/secureapp/SerializationUnitTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/secureapp/src/test/java/com/applexis/secureapp/SerializationUnitTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ghsync-master/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ghsync-master/gradle/wrapper/gradle-wrapper.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
